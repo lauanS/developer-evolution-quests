@@ -1,4 +1,4 @@
-# Desafios de Evolução do Desenvolvedor
+# Developer Evolution Quests
 
 Desafios em TypeScript para ajudar a superar suas principais fraquezas como desenvolvedor.
 
