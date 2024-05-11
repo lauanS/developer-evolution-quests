@@ -1,5 +1,5 @@
 import type { LandColorDescriber, InputLandWithTypes } from "@/arrays-functions/types";
-import answers from '@/arrays-functions/solutions';
+import answers from '@/arrays-functions/problems';
 
 describe('Tema: Magic', () => {
   const inputBasicLandList = [
