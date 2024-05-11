@@ -1,3 +1,3 @@
-# study-weaknesses
+# Study Weaknesses
 
-Study your weaknesses and improve yourself
+TypeScript challenges to help address your main weaknesses as a developer.
