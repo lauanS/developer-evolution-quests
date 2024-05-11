@@ -3,6 +3,6 @@ module.exports = {
   preset: 'ts-jest',
   testEnvironment: 'node',
   moduleNameMapper: {
-    '@/(.*)': '<rootDir>/javascript/$1'
+    '@/(.*)': '<rootDir>/challenges/$1'
   }
 };

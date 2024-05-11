@@ -1,5 +1,5 @@
-import type { LandColorDescriber, InputLand, InputLandWithTypes, InputLandWithColors } from "./types";
-import { EnumLandTypeOrder } from "./types";
+import type { LandColorDescriber, InputLand, InputLandWithTypes, InputLandWithColors } from "@/arrays-functions/types";
+import { EnumLandTypeOrder } from "@/arrays-functions/types";
 
 /**
  * Input de exemplo para o parâmetro Input das funções

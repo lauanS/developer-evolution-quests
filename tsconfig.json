@@ -9,7 +9,7 @@
     "noImplicitAny": true,
     "skipLibCheck": true,
     "paths": {
-      "@/*": ["./javascript/*"]
+      "@/*": ["./challenges/*"]
     },
   }
 }

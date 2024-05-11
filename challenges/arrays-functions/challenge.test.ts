@@ -1,4 +1,4 @@
-import type { LandColorDescriber, InputLandWithTypes } from "../arrays-functions/types";
+import type { LandColorDescriber, InputLandWithTypes } from "@/arrays-functions/types";
 import answers from '@/arrays-functions/solutions';
 
 describe('Tema: Magic', () => {
