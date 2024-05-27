@@ -4,8 +4,7 @@
   "description": "Study your weaknesses and improve yourself",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "dev": "tsx watch index.ts"
+    "test": "jest"
   },
   "author": "lauanS",
   "license": "MIT",
