@@ -149,7 +149,21 @@ const problem4 = (input: InputLand[]) => {
  * ---------------------------------
  *
  * @expectedOutput
- * `10`
+ * ```
+ * [
+ *   {
+ *     type: 'Plain',
+ *     amount: 5,
+ *     color: 'white'
+ *   },
+ *   {
+ *     type: 'Mountain',
+ *     amount: 5,
+ *     color: 'red'
+ *   },
+ *   ...
+ * ]
+ * ```
  *
  * ---------------------------------
  *
@@ -195,7 +209,30 @@ const problem5 = (input: InputLandWithTypes[], colors: LandColorDescriber) => {
  * ---------------------------------
  *
  * @expectedOutput
- * `10`
+ * ```
+ * [
+ *   {
+ *     type: 'Plain',
+ *     amount: 5
+ *   },
+ *   {
+ *     type: 'Island',
+ *     amount: 0
+ *   },
+ *   {
+ *     type: 'Swamp',
+ *     amount: 10
+ *   },
+ *   {
+ *     type: 'Mountain',
+ *     amount: 5
+ *   },
+ *   {
+ *     type: 'Forest',
+ *     amount: 0
+ *   }
+ * ]
+ * ```
  *
  * ---------------------------------
  *
